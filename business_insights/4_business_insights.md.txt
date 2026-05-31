@@ -1,0 +1,19 @@
+# Customer Churn Business Insights
+
+## 1. Overall Churn Rate
+26.58% of customers have churned, indicating that more than 1 in 4 customers leave the service.
+
+## 2. Gender Has Minimal Impact
+Male and female customers show almost identical churn rates, suggesting gender is not a significant predictor of churn.
+
+## 3. Contract Type Strongly Influences Churn
+Month-to-month customers have a churn rate above 42%, while two-year contract customers have a churn rate below 3%.
+
+## 4. High Monthly Charges Increase Churn
+Customers who churn pay higher average monthly charges than customers who stay.
+
+## 5. Customer Tenure Reduces Churn
+Customers who stay have an average tenure of approximately 38 months, compared to 18 months for churned customers.
+
+## 6. Retention Focus Area
+The highest-risk group consists of new customers on month-to-month contracts with higher monthly charges.
